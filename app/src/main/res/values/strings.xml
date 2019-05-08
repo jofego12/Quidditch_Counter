@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ABND_Project2_JonathanFernandezGomez</string>
+    <string name="counter_title">Quidditch Counter</string>
+    <string name="initial_value">0</string>
+    <string name="quaffle">Quaffle</string>
+    <string name="snitch">Snitch</string>
+    <string name="time_up">Time\'s up!</string>
+</resources>
